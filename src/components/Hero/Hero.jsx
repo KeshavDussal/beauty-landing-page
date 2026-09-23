@@ -12,7 +12,7 @@ const heroSlides = [
     id: 1,
     productName: "Glasswing Serum",
     productImage: heroBottle,
-    title: ["Let nature take", "care of your body", "and soul"],
+    title: ["Let keshav take", "care of your body", "and soul"],
   },
   {
     id: 2,
