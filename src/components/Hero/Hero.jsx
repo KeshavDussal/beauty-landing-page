@@ -18,7 +18,7 @@ const heroSlides = [
     id: 2,
     productName: "Botanical Face Oil",
     productImage: heroBottleTwo,
-    title: ["Glow softly with", "pure green beauty", "every day"],
+    title: ["Glow keshav softly with", "pure green beauty", "every day"],
   },
   {
     id: 3,
